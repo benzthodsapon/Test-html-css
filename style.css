@@ -1,13 +1,10 @@
-.box {
-    background-color: blue;
-    padding: 20px; 
-    margin-bottom: 10px;    
-
-}
-.tittle{
-    font-size: 60px;
-
-}
-.text{
-    font-size: 60px;
+.button {
+  color: white;
+  background-color: blueviolet;
+  padding: 15px;
+  text-align: center;
+  text-decoration: none;
+  margin-bottom: 10px;
+  display:inline-block;
+  width: 30%;
 }
